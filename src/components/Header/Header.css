@@ -1,0 +1,17 @@
+.header-part{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.title{
+  font-style: italic;
+  color: rgb(33, 130, 221);
+  font-size: 40px;
+  width: 50%;
+  font-weight: 800;
+}
+
+.eye-care{
+  font-size: 20px;
+  color: blue;
+}
