@@ -6,7 +6,7 @@ const Contact = () => {
         
         <div>
             <h2 className="text-primary">Contact Us!</h2>
-            <form className="row g-3">
+            <form className="row g-3 mx-auto w-50">
                     <div className="col-md-12">
                         <label htmlFor="inputName" className="form-label">Name</label>
                         <input type="text" className="form-control" />
